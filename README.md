@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andrea</h1>
-<h3 align="center">A passionate python developer from Chile</h3>
+<h1 align="center">Hi 👋, I'm Andrea from Chile</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreamendezortiz&label=Profile%20views&color=0e75b6&style=flat" alt="andreamendezortiz" /> </p>
 
