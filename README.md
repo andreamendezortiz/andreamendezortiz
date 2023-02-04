@@ -4,6 +4,8 @@
 
 <p align="left"> <a href="https://twitter.com/andrymo" target="blank"><img src="https://img.shields.io/twitter/follow/andrymo?logo=twitter&style=for-the-badge" alt="andrymo" /></a> </p>
 
+<h3 align="left">I'm Business Intelligence & Analytics Analyst</h3>
+
 - 📫 How to reach me **andrea.mendez.ortiz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
