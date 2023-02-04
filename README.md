@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://twitter.com/andrymo" target="blank"><img src="https://img.shields.io/twitter/follow/andrymo?logo=twitter&style=for-the-badge" alt="andrymo" /></a> </p>
 
 <h3 align="left">I'm Business Intelligence & Analytics Analyst</h3>
-<h3 align="left">Currently I work with Python, SQL, Power BI & Amazon Web Services</h3>
+<h4 align="left">Currently I work with Python, SQL, Power BI & Amazon Web Services</h4>
 
 - 📫 How to reach me **andrea.mendez.ortiz@gmail.com**
 
