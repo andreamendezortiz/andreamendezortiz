@@ -8,7 +8,7 @@
 <h4 align="left">Currently I work with Python, SQL, Power BI & Amazon Web Services</h4>
 
 - 📫 How to reach me **andrea.mendez.ortiz@gmail.com**
-- Me gusta escribir sobre tecnología en: https://dev.to/andreamendez
+- I like to write about technology in: https://dev.to/andreamendez
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
